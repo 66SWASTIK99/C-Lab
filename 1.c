@@ -1,3 +1,4 @@
+//store students datas consisting name, ID, marks in structure and display the result table and detail of highest scorer separately 
 #include<stdio.h>
 
 int main()
