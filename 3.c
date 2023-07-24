@@ -1,3 +1,5 @@
+//to convert date from B.S. (Nepali Calender) to A.D. (Gregorian Calender) using structure
+
 #include<stdio.h>
 
 struct date
