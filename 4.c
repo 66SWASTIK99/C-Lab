@@ -1,3 +1,5 @@
+//Store person's name and age. But store full age format(years months and day) for child, years only for adult, and 'O' alphabet for Old.
+
 #include<stdio.h>
 
 int main()
