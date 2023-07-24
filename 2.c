@@ -1,3 +1,5 @@
+//calculate the distance between cartesian coordinate points
+
 #include<stdio.h>
 #include<math.h>
 
