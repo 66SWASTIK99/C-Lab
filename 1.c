@@ -58,9 +58,8 @@ int main()
     printf("%f",s[high].total);
 }
 /*
-LAB REPORT KO LAGI LEKHEKO
-initially i have declared a varible to ease scaling the size of data and has been iinitialized to 3 to ease the testing later on.
-then the struxture is created . after that data is taken form the user. also i have summed up the marks to total marks variable.
+initially i have declared a variable to ease the scaling of data size and has been initialized to 3 to ease the testing later on.
+then the structure is created . then data is taken form the user. also i have summed up the marks to total marks variable.
 in next step i have identified the data position with highest total marks and stored it in a separate variable.
-finally the data of student is printed and data of highest scorer is printed separately 
+finally the data of the students are printed and the data of highest scorer is printed separately 
 */
