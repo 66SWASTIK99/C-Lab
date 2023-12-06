@@ -41,13 +41,13 @@ int main()
     printf("A.D. : %d/%d/%d", X.Y, X.M, X.D);
 }
 /*
-Bikram Sambat is 56 years 8months and 17 days ahead compared to grgorian calendar
+Bikram Sambat is 56 years 8months and 17 days(approx.) ahead compared to gregorian calendar
 firstly a structure is formed and declared. then the data is taken fron the user
-a separate funtion is created to convert B.S. to A.D. and structure is passed to a function
-we need to reduce BS date by 46 yeara 8 months and 17 days to approximately convert to AD
-so we start of by reducing day, if the days is more than 16 then the days is reduced by 17 otherwise month is reduced by 1 
+a separate funtion is created to convert B.S. to A.D. where structure is taken in as parameter from main function
+we need to reduce BS date by 46 years 8 months and 17 days to approximately for conversion to AD
+so we start off by reducing day, if the days is more than 16 then the days is reduced by 17 otherwise month is reduced by 1 
 and day is reduced by remaining days after reducing 17 days which is the sum of 13 days and days(BS)
-then month is reduced by 1 if month is more than 7 otherwise the year reduced by 1 and the month is equal to sum of 4 and the months(BS)
+then the month is reduced by 1 if month is more than 7 otherwise the year reduced by 1 and the month is equal to sum of 4 and the months(BS)
 and finally year is reduced by 56 years
 At last cnoverted date is returned to a main function
 */
