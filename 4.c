@@ -63,12 +63,12 @@ int main()
     }
 }
 /*
-i created 2 structures and 1 union. where one structure stores peoples detail also concsisting of one union inside of it which stores
+i have created 2 structures and 1 union. where one structure stores peoples detail also consisting of one union inside of it which stores
 age data according to age cateogory
 and it also consists of one structure to store full age if needed
-then name and age in years is taken, if age is less than 18 then the status is stored as 0 to represent children and we asks months and days
+then name and age(in years) are taken , if age is less than 18 then the status is stored as 0 to represent children and we asks months and days
 if the age is less than 60 then the status is stored as 1 representing adult and 
-non of the condition is met then the status is stored as 2 representing as OLD
+if none of the condition is met then the status is stored as 2 representing as OLD
 then finally the stored data is printed whereas age is printed depending upon age cateogory
 which is full age detail for child, only years for adult and O for old
 */
